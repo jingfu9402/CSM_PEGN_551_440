@@ -1,8 +1,5 @@
 # CSM-PEGN552 Course Template
 
-Click the button below to launch a notebook sample on [Binder](https://mybinder.org/):<br>
-[![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=launch&message=Binder%0A%2B%0AAVEVA_DataHub&color=3d1152)](https://ovh.mybinder.org/v2/gh/academic-hub/notebooks-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Facademic-hub%252FCSM-PEGN552%26urlpath%3Dtree%252FCSM-PEGN552%252F%26branch%3Dmain)
-
 [![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=launch&message=Binder%0A%2B%0AAVEVA_DataHub&color=3d1152)](https://mybinder.org/v2/gh/academic-hub/notebooks-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fjingfu9402%252FCSM_PEGN_551_440%26urlpath%3Dtree%252FCSM_PEGN_551_440%252F%26branch%3Dmain)
 
 The notebook can also be ran on [Google Colab](https://colab.research.google.com/) with its handy access to Google Drive:<br>
@@ -48,7 +45,6 @@ We recommend [Github desktop](https://desktop.github.com/) for dealing with Gith
 Your Github class repository is now ready to be shared with students, just distribute its URL. 
 
 No Github account is necessary to run notebooks. **But data accesses do require an AVEVA Academic Hub account for each student. Please go to https://academic.osisoft.com/new-class for details.**
-
 
 
 
