@@ -1,6 +1,6 @@
 # CSM-PEGN552 Course Template
 
-Click the button below to launch a notebook
+Click the button below to launch a notebook:<br>
 [![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=launch&message=Binder%0A%2B%0AAVEVA_DataHub&color=3d1152)](https://mybinder.org/v2/gh/academic-hub/notebooks-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fjingfu9402%252FCSM_PEGN_551_440%26urlpath%3Dtree%252FCSM_PEGN_551_440%252F%26branch%3Dmain)
 
 The notebook can also be ran on [Google Colab](https://colab.research.google.com/) with its handy access to Google Drive:<br>
