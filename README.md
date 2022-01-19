@@ -48,3 +48,4 @@ Your Github class repository is now ready to be shared with students, just distr
 No Github account is necessary to run notebooks. **But data accesses do require an AVEVA Academic Hub account for each student. Please go to https://academic.osisoft.com/new-class for details.**
 
 
+[![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=launch&message=Binder%0A%2B%0AAVEVA_DataHub&color=3d1152)](https://github.com/jingfu9402/CSM_PEGN_551_440/)
